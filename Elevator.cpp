@@ -1,3 +1,5 @@
+//using threads and condition variables to simulate an elevator system
+
 
 #include<stdlib.h>
 #include<unistd.h>
